@@ -79,6 +79,11 @@ vendor.vidc.dec.downscalar_height=1088
 media.camera.ts.monotonic=1
 persist.camera.time.monotonic=1
 persist.camera.max.previewfps=60
+camera.hal3.force.1=com.whatsapp/.qrcode.QrCodeActivity
+camera.hal3.force.2=com.google.android.GoogleCamera
+camera.hal3.force.3=com.google.android.GoogleCameraAr
+camera.hal3.force.4=com.google.android.GoogleCameraSk
+camera.hal3.force.total=4
 
 # CNE
 persist.cne.feature=1
